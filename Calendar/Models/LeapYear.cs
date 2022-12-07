@@ -1,4 +1,4 @@
-namespace Calendar
+namespace Calendar.Models
 {
   public class LeapYear
   {

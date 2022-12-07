@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Calendar;
+using Calendar.Models;
 
 namespace Calender.Tests
 {
